@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/black"
+    tools:context=".GameOverActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/consolas"
+        android:text="You"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.129" />
+
+    <TextView
+        android:id="@+id/txtWinTitle"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/consolas"
+        android:text="Win"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.271" />
+
+    <TextView
+        android:id="@+id/txtLoseTitle"
+        android:visibility="visible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/consolas"
+        android:text="Lose"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.271" />
+
+    <TextView
+        android:id="@+id/txtWin"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginBottom="180dp"
+        android:fontFamily="@font/consolas"
+        android:gravity="left"
+        android:lines="4"
+        android:maxLines="4"
+        android:minLines="4"
+        android:singleLine="false"
+        android:text="Wow, you can tell the difference between man and machine"
+        android:textColor="@color/white"
+        android:textSize="32dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtLose"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="180dp"
+        android:fontFamily="@font/consolas"
+        android:gravity="left"
+        android:lines="4"
+        android:maxLines="4"
+        android:minLines="4"
+        android:singleLine="false"
+        android:text="Looks like you can't tell the difference between man and machine"
+        android:textColor="@color/white"
+        android:textSize="32dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/BtnLetsGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="52dp"
+        android:width="340dp"
+        android:height="90dp"
+        android:background="@drawable/btntryagain"
+        android:onClick="onClick"
+        android:text="Try Again"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:fontFamily="@font/consolas"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

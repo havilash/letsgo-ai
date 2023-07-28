@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundpolygon">
+
+    <LinearLayout
+        android:id="@+id/white_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/question_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Human or AI?"
+            android:textSize="34sp"
+            android:fontFamily="@font/consolas"/>
+
+        <LinearLayout
+            android:id="@+id/button_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/human_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/primary"
+                android:textColor="@color/white"
+                android:text="Human"
+                android:fontFamily="@font/consolas"
+                android:onClick="onHumanButtonClick"
+                android:textSize="24sp"/>
+
+            <Space
+                android:layout_width="24dp"
+                android:layout_height="1dp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/ai_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#C23737"
+                android:textColor="@color/white"
+                android:text="AI"
+                android:fontFamily="@font/consolas"
+                android:onClick="onAIButtonClick"
+                android:textSize="24sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

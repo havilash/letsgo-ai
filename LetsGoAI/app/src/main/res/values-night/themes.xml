@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LetsGoAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/body1</item>
+    </style>
+</resources>

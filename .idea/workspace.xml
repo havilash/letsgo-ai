@@ -4,7 +4,95 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd5ad6c-1105-407e-ba5b-a5d49e0e61a0" name="Changes" comment="" />
+    <list default="true" id="ddd5ad6c-1105-407e-ba5b-a5d49e0e61a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/sensitive.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/androidTest/java/ch/letsGo/ai/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/androidTest/java/ch/letsGo/ai/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/ChatAIActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/ChatAIActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/ChatHumanActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/ChatHumanActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/GameOverActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/GameOverActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/GuessActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/GuessActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/LoadingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/LoadingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/ChatAIDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/ChatAIDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/ChatHumanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/ChatHumanDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/FactDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/dal/FactDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/helper/ChatJsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/helper/ChatJsonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/helper/FactJsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/helper/FactJsonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Fact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/java/ch/letsGo/ai/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/logo-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/logo-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/backgroundpolygon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/backgroundpolygon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/baseline_account_circle_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/baseline_account_circle_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/baseline_computer_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/baseline_computer_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/baseline_send_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/baseline_send_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/btnletsgo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/btnletsgo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/btntryagain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/btntryagain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/drawable/logo_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/drawable/logo_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/font/consolas.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/font/consolas.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/font/roboto_condensed_regular.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/font/roboto_condensed_regular.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/activity_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/activity_game_over.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/activity_game_over.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/activity_guess.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/activity_guess.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/activity_loading.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/activity_loading.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/message_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/message_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/layout/message_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/layout/message_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/font_certs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/logo_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/logo_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/main/res/xml/network_security_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/app/src/test/java/ch/letsGo/ai/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/app/src/test/java/ch/letsGo/ai/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsGoAI/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/LetsGoAI/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/chat.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/api/chat.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/chat.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/api/chat.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/dao/chatDAO.js" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/dao/chatDAO.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoAI/backend/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +100,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2S6kuThEJVyZQkA3SH3iMBWmCJ1" />
   <component name="ProjectViewState">
@@ -24,9 +115,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/bbierm/LetsGoAI/letsgo-ai"
+    "last_opened_file_path": "C:/Users/havil/Documents/GitHub/LetsGo-AI/LetsGoAI/LetsGoAI"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\havil\Documents\GitHub\LetsGo-AI\LetsGoAIs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

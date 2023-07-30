@@ -23,7 +23,7 @@ import ch.letsGo.ai.model.Chat;
 import ch.letsGo.ai.model.Message;
 
 public class ChatHumanDao {
-    private static final String BASE_CHAT_URL = "http://192.168.55.15:8000/api/v1/chat/";
+    private static final String BASE_CHAT_URL = "http://127.0.0.1:8000/api/v1/chat/";
     private static final String CREATE_CHAT = BASE_CHAT_URL + "new";
 
     private final RequestQueue requestQueue;

@@ -22,7 +22,7 @@ public class FactDao {
     private static final String JOKE_API_URL = BASE_API_URL + "/jokes";
     private static final String DAD_JOKE_API_URL = BASE_API_URL + "/dadjokes";
     private static final String CHUCK_NORRIS_JOKE_API_URL = BASE_API_URL + "/chucknorris";
-    private static final String API_KEY = "PyfE3erj/INcZRXWAlPhZQ==OrXmVyCjmiNRia3C";
+    private static final String API_KEY = "API_KEY";
 
     private final RequestQueue requestQueue;
 

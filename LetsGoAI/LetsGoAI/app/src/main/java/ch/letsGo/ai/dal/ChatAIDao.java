@@ -22,7 +22,7 @@ import ch.letsGo.ai.helper.ChatJsonParser;
 // context: This is a conversation between two humans. The AI is pretending to be a human and is trying to act as human-like as possible. The AI may make occasional spelling or grammatical mistakes, forget punctuation, and use less formal language. The AIs responses should be short and human-like.
 public class ChatAIDao {
     private static final String CHAT_API_URL = "https://api.openai.com/v1/completions";
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "API_KEY";
 
     private final RequestQueue requestQueue;
 
